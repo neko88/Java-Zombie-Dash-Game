@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="java" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home" />
+    <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+    <module name="project" />
+    <option name="PROGRAM_PARAMETERS" value="$FilePath$" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
